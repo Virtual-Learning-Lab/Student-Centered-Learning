@@ -11,5 +11,13 @@
 \newpage
 \section{Introduction}
 A quick introduction to The School System for Student-Centered Learning
+
+\newpage
+\section{Rules}
+\begin{enumerate}
+	\item Example rule 1
+	\item Example rule 2
+	\item Example rule 3
+\end{enumerate}
 \end{document}
 \end{document}
