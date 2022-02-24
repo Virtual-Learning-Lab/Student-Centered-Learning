@@ -1,12 +1,14 @@
 \documentclass[titlepage]{article}
 \usepackage[a4paper, total={6in, 8in}]{geometry}
 
-
+\begin{document}
+\begin{titlepage}
 \author{r/StudentCenteredLearin}
 \title{The School System for Student-Centered Learning}
 \date{February 24, 2022 - ?}
-\begin{document}
 \maketitle
+\end{titlepage}
+
 \newpage
 \tableofcontents
 \newpage
