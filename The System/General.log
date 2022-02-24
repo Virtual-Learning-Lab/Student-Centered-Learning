@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.10.2)  24 FEB 2022 08:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.10.2)  24 FEB 2022 10:38
 entering extended mode
 **./General.tex
 (General.tex
@@ -122,11 +122,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1] [2] [3] (General.aux) ) 
 Here is how much of TeX's memory you used:
- 963 strings out of 479334
- 15721 string characters out of 2855184
+ 964 strings out of 479334
+ 15736 string characters out of 2855184
  305885 words of memory out of 3000000
- 18468 multiletter control sequences out of 15000+200000
- 407378 words of font info for 40 fonts, out of 3000000 for 9000
+ 18469 multiletter control sequences out of 15000+200000
+ 407685 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,176b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Giesberts/AppData/Local/Programs/MiKTeX/f
@@ -136,7 +136,7 @@ ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Gie
 sberts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 C:/Users/Giesberts/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr17.pfb>
-Output written on General.pdf (4 pages, 63995 bytes).
+Output written on General.pdf (4 pages, 65121 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
