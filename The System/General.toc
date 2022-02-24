@@ -5,3 +5,6 @@
 \contentsline {subsection}{\numberline {3.1}Original idea}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Introduction}{4}{}%
 \contentsline {subsection}{\numberline {3.3}Rules}{4}{}%
+\contentsline {subsection}{\numberline {3.4}Grammar}{4}{}%
+\contentsline {subsection}{\numberline {3.5}Other helpers}{4}{}%
+\contentsline {section}{\numberline {4}Sources}{5}{}%
