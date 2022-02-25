@@ -2,7 +2,7 @@
 \usepackage[a4paper, total={6in, 8in}]{geometry}
 \usepackage{titlesec}
 \usepackage{hyperref}
-\usepackage{fancyhdr}
+\usepackage{fancyhdr, lastpage}
 \usepackage{draftwatermark}
 
 \SetWatermarkText{Draft}
@@ -11,6 +11,7 @@
 \pagestyle{fancy}
 \lhead{The School System for Student-Centered Learning}
 \rhead{Made by r/StudentCenteredLearin}
+\cfoot{Page \thepage\ of \pageref{LastPage}}
 
 \setcounter{secnumdepth}{4}
 \titleformat{\paragraph}
@@ -144,5 +145,4 @@ All sources used to develop the school system.
 All sources used to write the introduction
 \subsection{Rules}
 All sources used to write the rules
-\end{document}
 \end{document}

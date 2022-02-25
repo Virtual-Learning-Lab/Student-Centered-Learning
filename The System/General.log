@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.10.2)  25 FEB 2022 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.10.2)  25 FEB 2022 20:20
 entering extended mode
 **./General.tex
 (General.tex
@@ -227,6 +227,10 @@ rs
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
+(C:\Users\Giesberts\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.s
+ty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
 (C:\Users\Giesberts\AppData\Local\Programs\MiKTeX\tex/latex/draftwatermark\draf
 twatermark.sty
 Package: draftwatermark 2020/12/08 3.0 Put a gray textual watermark on document
@@ -273,24 +277,24 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 ) (General.aux)
 \openout1 = `General.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -326,7 +330,7 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 (C:\Users\Giesberts\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.st
 y
@@ -342,13 +346,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count267
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
  (General.out) (General.out)
 \@outlinefile=\write3
 \openout3 = `General.out'.
 
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 26.
 
 (C:\Users\Giesberts\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
 f.mkii
@@ -372,15 +379,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
+(Font)              <6> on input line 28.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <149.37697> not available
-(Font)              size <24.88> substituted on input line 27.
+(Font)              size <24.88> substituted on input line 28.
 
 [1{C:/Users/Giesberts/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
@@ -398,8 +405,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \newpage
-              [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] (General.aux)
+l.30 \newpage
+              [1] [2] [3] [4] [5] [6] [7] [8] [9]
+
+AED: lastpage setting LastPage
+[10] (General.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 124.49696pt have occurred.
@@ -408,10 +418,10 @@ Package rerunfilecheck Info: File `General.out' has not changed.
 (rerunfilecheck)             Checksum: 630875319DBEC2519A7CE55309BCF2D3;5073.
  ) 
 Here is how much of TeX's memory you used:
- 8875 strings out of 479334
- 133924 string characters out of 2855184
- 445181 words of memory out of 3000000
- 26173 multiletter control sequences out of 15000+200000
+ 8905 strings out of 479334
+ 134617 string characters out of 2855184
+ 447994 words of memory out of 3000000
+ 26199 multiletter control sequences out of 15000+200000
  407984 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,12n,88p,352b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -421,9 +431,9 @@ blic/amsfonts/cm/cmbx12.pfb><C:/Users/Giesberts/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Giesberts/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Giesberts/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on General.pdf (11 pages, 119703 bytes).
+Output written on General.pdf (11 pages, 121714 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
+ 299 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 500000)
  313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
