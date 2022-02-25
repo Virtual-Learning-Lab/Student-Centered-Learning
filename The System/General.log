@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.10.2)  25 FEB 2022 19:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.10.2)  25 FEB 2022 20:10
 entering extended mode
 **./General.tex
 (General.tex
@@ -408,10 +408,10 @@ Package rerunfilecheck Info: File `General.out' has not changed.
 (rerunfilecheck)             Checksum: 630875319DBEC2519A7CE55309BCF2D3;5073.
  ) 
 Here is how much of TeX's memory you used:
- 8878 strings out of 479334
- 133970 string characters out of 2855184
- 445210 words of memory out of 3000000
- 26176 multiletter control sequences out of 15000+200000
+ 8875 strings out of 479334
+ 133924 string characters out of 2855184
+ 445181 words of memory out of 3000000
+ 26173 multiletter control sequences out of 15000+200000
  407984 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,12n,88p,352b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
