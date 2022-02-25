@@ -21,8 +21,13 @@ Here we address the general problems with the current school systems
 \newpage
 \section{The School System for Student-Centered Learning}
 Here we explain what we are going to talk about in this section
-\
-section{Rules}
+\subsection{Our main goal}
+Here we explain the main goal of The School System for Student-Centered Learning
+\subsection{How are we going to achieve this goal?}
+Here we talk about how we are going to achieve our main goal
+
+\newpage
+\section{Rules}
 \begin{enumerate}
 	\item Example rule 1
 	\item Example rule 2
@@ -30,6 +35,42 @@ section{Rules}
 \end{enumerate}
 \subsection{Reasons}
 Here we explain each rule
+
+\newpage
+\section{Subjects}
+Here we explain what we are going to talk about in this section
+\subsection{Mandatory subjects 4-10}
+Here we list out all the mandatory subjects for kids aged 4-10 years old
+\subsection{Extra subjects 4-10}
+Here we list out all the extra subjects for kids aged 4-10 years old
+\subsection{Mandatory subjects 11-18}
+Here we list out all the mandatory subjects for kids aged 11-18 years old
+\subsection{Extra subjects 11-18}
+Here we list out all the extra subjects for kids aged 11-18 years old
+\subsection{Reasoning age 4-10}
+Here we explain why we choose for the mandatory and extra subjects for kids aged 4-10.
+\subsection{Reasoning age 11-18}
+Here we explain why we choose for the mandatory and extra subjects for kids aged 11-18.
+
+\newpage
+\section{Country Specific}
+Here we explain why we have country specific and how we are going to implement it into our school system.
+\subsection{Belgium}
+Here we talk about country specific things for Belgium.
+\subsection{France}
+Here we talk about country specific things for France.
+\subsection{Germany}
+Here we talk about country specific things for Germany.
+\subsection{Netherlands}
+Here we talk about country specific things for Netherlands.
+\subsection{Spain}
+Here we talk about country specific things for Spain.
+\subsection{United States of America}
+Here we talk about country specific things for United States of America.
+
+\newpage
+\section{School times}
+Here we explain from what time to what time kids will go to school
 
 \newpage
 \section{Credits}
